@@ -20,4 +20,4 @@ Metodologi (K-Means Clustering)
     d. Cluster 3: Pola Angin Utara Kencang (angin bertiup kencang dari arah Utara).
 
 Kesimpulan:
-Jakarta secara signifikan didominasi oleh Cluster 2 (Pola Angin Tenang & Bervariasi), mengindikasikan sirkulasi udara yang lebih lambat—temuan yang relevan untuk studi kualitas udara perkotaan (akumulasi polutan). Sedangkan Aceh dan Lampung menunjukkan distribusi pola yang lebih beragam dan dipengaruhi kuat oleh siklus monsun, dengan proporsi tinggi untuk Cluster 0 (Monsun Barat) dan Cluster 1 (Monsun Timur) .
+Jakarta secara signifikan didominasi oleh Cluster 2 (Pola Angin Tenang & Bervariasi), mengindikasikan sirkulasi udara yang lebih lambat. Sedangkan Aceh dan Lampung menunjukkan distribusi pola yang lebih beragam dan dipengaruhi kuat oleh siklus monsun, dengan proporsi tinggi untuk Cluster 0 (Monsun Barat) dan Cluster 1 (Monsun Timur) .
